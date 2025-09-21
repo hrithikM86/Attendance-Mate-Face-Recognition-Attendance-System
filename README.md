@@ -51,12 +51,6 @@ Attendance Mate aims to create a user-friendly, cost-effective, and accurate att
 - Gathering a comprehensive dataset of student images.
 - Developing an intuitive mobile application for attendance marking.
 
-## Financial Overview
-| Items           | Amount | Remarks   |
-|------------------|--------|-----------|
-| Funding Provided  | 0      |           |
-| Balance           | 0      |           |
-
 ## Gantt Chart of Future Plans
 - **March**: Talk with SAFE Team
 - **April**: Understand OFIQ library and its usage
